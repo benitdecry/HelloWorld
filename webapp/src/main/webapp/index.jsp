@@ -5,4 +5,5 @@
   <input type="text" id="lname" name="lname"><br>
   <input type="password">password:</label><br>
   <input type="text" id="pasword" name="password"<br>
+  <input type="text" id="pasword" name="password"<br>
 </form>
